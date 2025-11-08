@@ -7,10 +7,10 @@ Candidate for Bachelor of Science in Computer Science and Business Administratio
 Relevant Courses:	Object-Oriented Design, Introduction to Databases, Fundamentals of Computer Science 1 & 2,
 	Fundamentals of Cybersecurity, Probability and Statistics, Intro to Info Systems and Digital Tech
 
-COMPUTER KNOWLEDGE
-
 Languages:		Java, Python, JavaScript, SQL, R, CSS
+
 Systems:		Linux, Mac OS, Windows
+
 Technologies:	Git, IntelliJ IDEA, Eclipse, MySQL, React, Visual Studio Code, Replit, DrRacket
 
 WORK EXPERIENCE
@@ -26,9 +26,12 @@ o	Executed with high efficiency, was asked to mentor and train 8 other employees
 ACTIVITIES
 
 NU Security Club
+
 o	Participated in hands-on cybersecurity workshops including ethical hacking and lockpicking
 o	Engaged with industry professionals in guest speaker sessions
+
 NU Hacks Club
+
 o	Demonstrated group project work through member demo sessions
 o	Participated in hackathon preparation activities, building collaborative development skills
 
