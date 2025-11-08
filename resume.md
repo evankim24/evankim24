@@ -26,12 +26,10 @@ o	Executed with high efficiency, was asked to mentor and train 8 other employees
 ACTIVITIES
 
 NU Security Club
-
 o	Participated in hands-on cybersecurity workshops including ethical hacking and lockpicking
 o	Engaged with industry professionals in guest speaker sessions
 
 NU Hacks Club
-
 o	Demonstrated group project work through member demo sessions
 o	Participated in hackathon preparation activities, building collaborative development skills
 
