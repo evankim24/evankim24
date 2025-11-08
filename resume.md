@@ -1,6 +1,9 @@
 Evan Y. Kim
+
 Northeastern University, Khoury College of Computer Sciences, July 2024 – Exp. May 2028
+
 Candidate for Bachelor of Science in Computer Science and Business Administration, GPA: 3.86/4.00
+
 Relevant Courses:	Object-Oriented Design, Introduction to Databases, Fundamentals of Computer Science 1 & 2,
 	Fundamentals of Cybersecurity, Probability and Statistics, Intro to Info Systems and Digital Tech
 
