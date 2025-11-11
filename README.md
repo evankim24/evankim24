@@ -1,6 +1,5 @@
 ## Hi there 👋
 My name is Evan Kim, and I'm a second-year student at Northeastern University studying Computer Science and Business Administration.
-I'm currently learning object-oriented design.
 
 You can reach me at: kim.evan@northeastern.edu or 267-638-8067
 
